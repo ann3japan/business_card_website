@@ -1,1 +1,3 @@
-# wad_hw1
+# Business card website
+
+Just a website about myself
